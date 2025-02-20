@@ -1,0 +1,12 @@
+to create project 
+npm create vite@latest
+
+then add projectName
+also packageName
+
+Select Framework (Usually : Vanilla)
+then varient (JavaScrpit)
+
+cd projectPath
+npm install
+npm run dev
